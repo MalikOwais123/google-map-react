@@ -6,6 +6,9 @@ function App() {
     return (
         <div className="App">
             GOOGLE MAPS ADDED
+            GOOGLE MAPS ADDED
+            GOOGLE MAPS ADDED
+            GOOGLE MAPS ADDED
             {/* SOME PROPS MANDATORY TO RENDER MAP */}
             <Map
                 googleMapURL={mapURL}
