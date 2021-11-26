@@ -89,6 +89,7 @@ const Test = () => {
                     </>
                 ))}
 
+                {/* Selected team players will map there by their name */}
                 {selectedTeam && <h1>{selectedTeam} : Players</h1>}
                 {players.length > 0 &&
                     players.map((d) => (
